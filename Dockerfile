@@ -8,7 +8,7 @@
 ARG DOCKER_IMAGE_VERSION=
 
 # Define software versions.
-ARG AUDACIOUS_VERSION=4.5.1
+ARG AUDACIOUS_VERSION=4.6.1
 
 # Define software download URLs.
 ARG AUDACIOUS_URL=http://distfiles.audacious-media-player.org/audacious-${AUDACIOUS_VERSION}.tar.bz2
