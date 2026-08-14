@@ -29,7 +29,7 @@ RUN xx-verify \
     /tmp/audacious-install/usr/bin/audacious
 
 # Pull base image.
-FROM jlesage/baseimage-gui:alpine-3.20-v4.13.1
+FROM jlesage/baseimage-gui:alpine-3.20-v4.13.2
 
 ARG AUDACIOUS_VERSION
 ARG DOCKER_IMAGE_VERSION
